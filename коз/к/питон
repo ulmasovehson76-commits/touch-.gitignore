@@ -1,0 +1,5 @@
+solar_system_parser/
+├── models.py          # Классы объектов
+├── parser.py          # Логика парсинга
+├── io_handler.py      # Чтение из строки/файла
+└── main.py            # Точка входа
